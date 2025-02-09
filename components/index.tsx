@@ -6,6 +6,7 @@ import SearchBar from "./SearchBar";
 import CustomFilter from "./CustomFilter";
 import ItemList from "./ItemList";
 import EditItemForm from "./EditItemForm";
+import Menu from "./Menu";
 
 export {
     Hero,
@@ -15,5 +16,6 @@ export {
     SearchBar,
     CustomFilter,
     ItemList,
-    EditItemForm
+    EditItemForm,
+    Menu
 }

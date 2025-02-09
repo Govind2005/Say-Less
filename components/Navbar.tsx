@@ -9,9 +9,9 @@ const Navbar = () => {
             <Link href="/" className='flex justify-center items-center'>
                 Home Navbar
             </Link>
-            <Link className='text-blue-700 font-bold p-2 bg-slate-50' href={"/add"}>
+            {/* <Link className='text-blue-700 font-bold p-2 bg-slate-50' href={"/add"}>
               Create
-            </Link>
+            </Link> */}
             <CustomButton 
                 title='Cart' 
                 containerStyles='text-primary-blue rounded-full bg-white min-w-[130px]'
